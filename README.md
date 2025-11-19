@@ -3,7 +3,7 @@
 MedWear es una aplicación móvil para Android que te ayuda a recordar la toma de tus medicamentos. La app envía notificaciones programadas y te permite registrar cuando tomas tus medicamentos o posponerlos.
 
 ## APK
-La apk funciona tanto para celulares como wearables, dependendiendo del tipo de dispotivo que detecte mediante dimensiones.
+La misma apk funciona tanto para celulares como wearables, dependendiendo del tipo de dispotivo que detecte mediante dimensiones.
 
 ## ✨ Características
 
