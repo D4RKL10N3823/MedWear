@@ -28,7 +28,6 @@ La misma apk funciona tanto para celulares como wearables, dependendiendo del ti
   - Estadísticas de adherencia (últimos 7 días)
 
 - 💾 **Almacenamiento en Firebase**:
-  - Sincronización automática en la nube
   - Acceso desde cualquier dispositivo
   - Backup automático de datos
 
@@ -53,7 +52,6 @@ La misma apk funciona tanto para celulares como wearables, dependendiendo del ti
 
 - Flutter SDK (3.9.2 o superior)
 - Android Studio o VS Code
-- Cuenta de Firebase
 - Dispositivo Android o emulador (Android 7.0 / API 24 o superior)
 
 ## Developer
