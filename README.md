@@ -9,6 +9,7 @@ La apk funciona tanto para celulares como wearables, dependendiendo del tipo de 
 
 ### Funcionalidades Principales
 
+### Celular
 - ✅ **Registrar medicamentos** con:
   - Nombre del medicamento
   - Dosis
@@ -30,6 +31,20 @@ La apk funciona tanto para celulares como wearables, dependendiendo del tipo de 
   - Sincronización automática en la nube
   - Acceso desde cualquier dispositivo
   - Backup automático de datos
+
+### Wearable
+
+- **🔄 Sincronización Bidireccional**
+  - Medicamentos se envían automáticamente al reloj
+  - Respuestas del usuario se registran en la BD
+  - Confirmaciones en tiempo real
+  - Manejo automático de desconexiones
+
+- **📊 Gestión de Tomas**
+  - Registrar medicamento tomado desde reloj
+  - Posponer 10 minutos con nuevo recordatorio
+  - Historial sincronizado con móvil
+  - Firebase como BD central
 
 ## 🚀 Instalación y Configuración
 
