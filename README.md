@@ -41,8 +41,9 @@ La apk funciona tanto para celulares como wearables, dependendiendo del tipo de 
   - Manejo automático de desconexiones
 
 - **📊 Gestión de Tomas**
-  - Registrar medicamento tomado desde reloj
+  - Registrar medicamento tomado o pospuesto desde reloj
   - Posponer 10 minutos con nuevo recordatorio
+  - Envio de alerta al reloj
   - Historial sincronizado con móvil
   - Firebase como BD central
 
