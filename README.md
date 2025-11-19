@@ -1,19 +1,44 @@
-# medwear
+## 📱 Descripción
 
-A new Flutter project.
+MedWear es una aplicación móvil para Android que te ayuda a recordar la toma de tus medicamentos. La app envía notificaciones programadas y te permite registrar cuando tomas tus medicamentos o posponerlos.
 
-## Getting Started
+## APK
+La apk funciona tanto para celulares como wearables, dependendiendo del tipo de dispotivo que detecte mediante dimensiones.
 
-This project is a starting point for a Flutter application.
+## ✨ Características
 
-A few resources to get you started if this is your first Flutter project:
+### Funcionalidades Principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ **Registrar medicamentos** con:
+  - Nombre del medicamento
+  - Dosis
+  - Múltiples horarios al día
+  - Días de la semana específicos
+  - Fecha de inicio y fin del tratamiento
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔔 **Notificaciones programadas**:
+  - Recordatorios en los horarios configurados
+  - Vibración y sonido
+  - Posponer toma por 10 minutos
+
+- 📊 **Historial de tomas**:
+  - Ver registro de medicamentos tomados
+  - Ver medicamentos pospuestos u omitidos
+  - Estadísticas de adherencia (últimos 7 días)
+
+- 💾 **Almacenamiento en Firebase**:
+  - Sincronización automática en la nube
+  - Acceso desde cualquier dispositivo
+  - Backup automático de datos
+
+## 🚀 Instalación y Configuración
+
+### Requisitos Previos
+
+- Flutter SDK (3.9.2 o superior)
+- Android Studio o VS Code
+- Cuenta de Firebase
+- Dispositivo Android o emulador (Android 7.0 / API 24 o superior)
 
 ## Developer
 Cesar Ulises Oviedo Reyna
